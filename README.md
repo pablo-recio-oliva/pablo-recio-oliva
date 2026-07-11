@@ -48,20 +48,6 @@
 | **[database-design](https://github.com/pablo-recio-oliva/database-design)** | Diseño de bases de datos, normalización, modelos entidad-relación y SQL. |
 | **[html-fundamentals](https://github.com/pablo-recio-oliva/html-fundamentals)** | Ejercicios de HTML5, CSS3 y JavaScript realizados durante el módulo de Lenguajes de Marcas. |
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pablo-recio-oliva&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-recio-oliva&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 Racha de contribuciones
 
 <p align="center">
