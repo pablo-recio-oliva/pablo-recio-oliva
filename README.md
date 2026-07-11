@@ -1,18 +1,97 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner de Pablo Recio" width="100%">
+  <img src="assets/banner.png" alt="Banner de Pablo Recio">
 </p>
 
-<!--
-**pablo-recio-oliva/pablo-recio-oliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hola, soy Pablo Recio Oliva</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Actualmente continúo ampliando mis conocimientos mediante proyectos personales
+  enfocados en <b>Java</b>, <b>Kotlin</b>, <b>Android</b>, <b>SQL</b> y desarrollo
+  de aplicaciones de escritorio.
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 💻 Interesado en el desarrollo de software con Java y Kotlin.
+- 📱 Experiencia desarrollando aplicaciones Android con Android Studio.
+- 🖥️ Desarrollo de aplicaciones de escritorio con Swing y JavaFX.
+- 🗄️ Conocimientos en bases de datos relacionales, SQL y acceso a datos.
+- 🌱 Actualmente continúo ampliando mi portfolio con proyectos personales y aprendiendo nuevas tecnologías.
+
+---
+
+## 🛠 Tecnologías
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,javascript,mysql,git,github,vscode,idea" />
+
+</p>
+
+---
+
+## 📂 Repositorios destacados
+
+| Repositorio | Descripción |
+|-------------|-------------|
+| **[android-apps](https://github.com/pablo-recio-oliva/android-apps)** | Aplicaciones Android desarrolladas con Kotlin, RecyclerView, Retrofit y Material Design. |
+| **[java-fundamentals](https://github.com/pablo-recio-oliva/java-fundamentals)** | Ejercicios y proyectos desarrollados para consolidar los fundamentos de programación en Java. |
+| **[interface-development](https://github.com/pablo-recio-oliva/interface-development)** | Proyectos de interfaces gráficas utilizando Swing, JavaFX y JasperReports. |
+| **[data-access](https://github.com/pablo-recio-oliva/data-access)** | XML, DOM, XSLT, JDBC y persistencia de datos en Java. |
+| **[database-design](https://github.com/pablo-recio-oliva/database-design)** | Diseño de bases de datos, normalización, modelos entidad-relación y SQL. |
+| **[html-fundamentals](https://github.com/pablo-recio-oliva/html-fundamentals)** | Ejercicios de HTML5, CSS3 y JavaScript realizados durante el módulo de Lenguajes de Marcas. |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pablo-recio-oliva&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-recio-oliva&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Racha de contribuciones
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pablo-recio-oliva&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Objetivos actuales
+
+- 📱 Continuar desarrollando aplicaciones Android con Kotlin.
+- ☕ Profundizar en Java y buenas prácticas de desarrollo.
+- 🌐 Seguir ampliando mi portfolio con nuevos proyectos.
+- 💼 Incorporarme como desarrollador de software y continuar creciendo profesionalmente.
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn *(próximamente)*
+- 🌍 Portfolio *(próximamente)*
+
+---
+
+<p align="center">
+
+Gracias por visitar mi perfil.
+
+⭐ Si alguno de mis proyectos te resulta interesante, no dudes en echarle un vistazo.
+
+</p>
