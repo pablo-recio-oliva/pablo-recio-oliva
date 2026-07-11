@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Banner de Pablo Recio" width="100%">
+</p>
 
 <!--
 **pablo-recio-oliva/pablo-recio-oliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
