@@ -48,6 +48,8 @@
 | **[database-design](https://github.com/pablo-recio-oliva/database-design)** | Diseño de bases de datos, normalización, modelos entidad-relación y SQL. |
 | **[html-fundamentals](https://github.com/pablo-recio-oliva/html-fundamentals)** | Ejercicios de HTML5, CSS3 y JavaScript realizados durante el módulo de Lenguajes de Marcas. |
 
+---
+
 ## 📈 Racha de contribuciones
 
 <p align="center">
